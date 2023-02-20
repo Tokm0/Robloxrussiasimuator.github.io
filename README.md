@@ -22,6 +22,7 @@
 </style>
 </head>
 <body>
+<style>
     <table <style>background-color: #000000;</style>>
         <tr>
 
@@ -40,6 +41,7 @@
 
     </p>
     <table>
+    </style>
         <tr>
             <td><img src="https://tr.rbxcdn.com/599dabfa2ad355dcd6a2e2e3c66aca44/768/432/Image/Png" width="500" height="600"></td>
             <td><img src="https://tr.rbxcdn.com/b47c56829c8c7a6920c4b7e6bc4eb247/768/432/Image/Png" width="500" height="600"></td>
