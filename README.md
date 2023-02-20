@@ -17,7 +17,7 @@
 </style>
 </head>
 <body>
-    <table style="background-color: "#000000">
+    <table >
         <tr>
 
             <td width="5%" align="center">
