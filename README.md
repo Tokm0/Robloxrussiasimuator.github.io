@@ -33,7 +33,9 @@
                 <a href="https://www.youtube.com/@lucadsiko3656">
                     <img src="https://e7.pngegg.com/pngimages/503/589/png-clipart-youtube-icon-youtube-live-computer-icons-music-youtube-logo-angle-rectangle.png" alt="text describing the image" width="10%">
                 </a>
-            </td> </tr>
+            </td>
+            <td> <p><a href="file:///C:/Users/tomip/OneDrive/Desktop/lucasova%20stranka/news.html">NEWS</a></p> </td>
+            </tr>
             </table>
 
     <p>
