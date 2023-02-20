@@ -5,6 +5,16 @@
     <meta charset="utf-8" />
     <title></title>
     <link rel="stylesheet" type="text/css" href="StyleSheet1.css">
+    body
+{ background-color:black
+}
+h1{color:aliceblue;
+   text-align:center;   
+}
+p{color:aliceblue;
+ 
+}
+
 </head>
 <body>
     <table>
