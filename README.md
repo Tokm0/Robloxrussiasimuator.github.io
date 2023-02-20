@@ -27,7 +27,9 @@
                 <a href="https://www.youtube.com/@lucadsiko3656">
                     <img src="https://e7.pngegg.com/pngimages/503/589/png-clipart-youtube-icon-youtube-live-computer-icons-music-youtube-logo-angle-rectangle.png" alt="text describing the image" width="40%">
                 </a>
-            </td>
+            </td> </tr>
+            </table>
+            <table> <tr>
             <td> <h1>Roblox Russia Simulator                                                                     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Flag_of_Russia_%28bordered%29.svg/2560px-Flag_of_Russia_%28bordered%29.svg.png" width="5%" </h1> </td>
         </tr>
     </table>
