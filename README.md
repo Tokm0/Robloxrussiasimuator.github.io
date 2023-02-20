@@ -22,7 +22,7 @@
 </style>
 </head>
 <body>
-    <table background-color: #000000;>
+    <table <style>background-color: #000000;</style>>
         <tr>
 
             <td width="5%" align="center">
