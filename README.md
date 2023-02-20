@@ -25,7 +25,7 @@
     <table >
         <tr>
 
-            <td width="5%" align="center">
+            <td width="5%" align="center";background-color: #000000;>
                 <a href="https://discord.gg/fbBRx6DWQG">
                     <img src="https://assets-global.website-files.com/6257adef93867e50d84d30e2/636e0a6a49cf127bf92de1e2_icon_clyde_blurple_RGB.png" alt="text describing the image" width="10%">
                 </a>
