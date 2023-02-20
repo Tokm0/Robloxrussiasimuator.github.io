@@ -45,9 +45,9 @@
     <table>
   
         <tr>
-            <td><img src="https://tr.rbxcdn.com/599dabfa2ad355dcd6a2e2e3c66aca44/768/432/Image/Png" width="500" height="600"></td>
-            <td><img src="https://tr.rbxcdn.com/b47c56829c8c7a6920c4b7e6bc4eb247/768/432/Image/Png" width="500" height="600"></td>
-            <td><img src="https://tr.rbxcdn.com/9f040b80697da8511e757ab776cadd27/768/432/Image/Png" width="500" height="600"></td>
+            <td><img src="https://tr.rbxcdn.com/599dabfa2ad355dcd6a2e2e3c66aca44/768/432/Image/Png" width="100%" ></td>
+            <td><img src="https://tr.rbxcdn.com/b47c56829c8c7a6920c4b7e6bc4eb247/768/432/Image/Png" width="100%" ></td>
+            <td><img src="https://tr.rbxcdn.com/9f040b80697da8511e757ab776cadd27/768/432/Image/Png" width="100%" ></td>
         </tr>
     </table>
     <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/1mNSomylino1Hoaw3MzCC8?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
