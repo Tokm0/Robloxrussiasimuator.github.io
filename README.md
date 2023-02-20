@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 
 <html lang="en" xmlns="http://www.w3.org/1999/xhtml">
 <head>
@@ -22,17 +22,14 @@
 
             <td width="5%">
                 <a href="https://discord.gg/fbBRx6DWQG">
-                    <img src="https://assets-global.website-files.com/6257adef93867e50d84d30e2/636e0a6a49cf127bf92de1e2_icon_clyde_blurple_RGB.png" alt="text describing the image" width="50%">
+                    <img src="https://assets-global.website-files.com/6257adef93867e50d84d30e2/636e0a6a49cf127bf92de1e2_icon_clyde_blurple_RGB.png" alt="text describing the image" width="10%">
                 </a>
                 <a href="https://www.youtube.com/@lucadsiko3656">
-                    <img src="https://e7.pngegg.com/pngimages/503/589/png-clipart-youtube-icon-youtube-live-computer-icons-music-youtube-logo-angle-rectangle.png" alt="text describing the image" width="40%">
+                    <img src="https://e7.pngegg.com/pngimages/503/589/png-clipart-youtube-icon-youtube-live-computer-icons-music-youtube-logo-angle-rectangle.png" alt="text describing the image" width="10%">
                 </a>
             </td> </tr>
             </table>
-            <table> <tr>
-            <td> <h1>Roblox Russia Simulator                                                                     </h1> </td>
-        </tr>
-    </table>
+
     <p>
         If you want to experience real Russian life, you should try this game: <a href="https://www.roblox.com/games/7322017065/BIG-NEW-UPDATE-Russia-simulator">https://www.roblox.com/games/7322017065/BIG-NEW-UPDATE-Russia-simulator</a>
 
