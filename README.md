@@ -5,7 +5,7 @@
     <meta charset="utf-8" />
     <title></title>
     <link rel="stylesheet" type="text/css" href="StyleSheet1.css">
-    body
+   <style> body
     { background-color:black
     }
     h1{color:aliceblue;
@@ -14,7 +14,7 @@
     p{color:aliceblue;
 
     }
-
+</style>
 </head>
 <body>
     <table>
