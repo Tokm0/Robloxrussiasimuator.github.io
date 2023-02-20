@@ -20,7 +20,7 @@
     <table>
         <tr>
 
-            <td width="10%">
+            <td width="5%">
                 <a href="https://discord.gg/fbBRx6DWQG">
                     <img src="https://assets-global.website-files.com/6257adef93867e50d84d30e2/636e0a6a49cf127bf92de1e2_icon_clyde_blurple_RGB.png" alt="text describing the image" width="50%">
                 </a>
@@ -30,7 +30,7 @@
             </td> </tr>
             </table>
             <table> <tr>
-            <td> <h1>Roblox Russia Simulator                                                                     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Flag_of_Russia_%28bordered%29.svg/2560px-Flag_of_Russia_%28bordered%29.svg.png" width="5%" </h1> </td>
+            <td> <h1>Roblox Russia Simulator                                                                     </h1> </td>
         </tr>
     </table>
     <p>
